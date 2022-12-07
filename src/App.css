@@ -1,0 +1,83 @@
+.main_menu {
+  width: 100%;
+}
+.btn {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: -40px;
+}
+.btn button {
+  outline: none;
+  margin-left: 10px;
+}
+.btn button:first-child {
+  color: #000;
+  background-color: #fff;
+  font-size: 15px;
+  width: 50px;
+  height: 22px;
+}
+.btn button:last-child {
+  color: #fff;
+  background-color: red;
+  border: 1px solid red;
+  
+}
+/* 
+.card {
+  width: 250px;
+  height: 250px;
+  border: 1px solid #222;
+
+} */
+
+.save {
+  color: #fff;
+  background-color: dodgerblue;
+
+}
+
+.add a {
+  text-decoration: none;
+  color: #222;
+}
+.one {
+  display: flex;
+}
+.two {
+  display: flex;
+}
+.three {
+  display: flex;
+}
+.four {
+  display: flex;
+}
+.fifth {
+  display: flex;
+  display: none;
+
+}
+
+.inp1 {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.inp2 {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.inp3 {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.inp4 {
+  margin-top: 35px;
+  margin-left: 10px;
+}
+.inp5 {
+  margin-top: 30px;
+  margin-left: 10px;
+}
